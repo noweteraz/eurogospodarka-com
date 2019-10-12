@@ -1,0 +1,153 @@
+#-------------------------------
+# General Site Settings
+
+title: Eurogospodarka
+description: Życie przez pryzmat pieniądza
+logo: logo.png
+email: redakcja@eurogospodarka.com
+phone: +48 22 247 23 10
+address: ul. Zielna 39, 00-108 Warszawa
+
+menu:
+- {name: Kontakt, link: '/kontakt/'}
+
+google-analytics: 
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Życie <br> przez pryzmat <br> pieniądza
+
+social:
+- {icon: "ti-facebook", link: "https://www.facebook.com/eurogospodarka.miesiecznikdlawszystkich"}
+- {icon: "ti-twitter", link: "https://twitter.com/eurogospodarka"}
+
+
+# Issues Section
+issues:
+# 2012
+  - title : "Eurogospodarka 01.2012"
+    image : "assets/images/issues/012012.jpg"   
+  - title : "Eurogospodarka 02.2012"
+    image : "assets/images/issues/022012.png"   
+  - title : "Eurogospodarka 04.2012"
+    image : "assets/images/issues/042012.jpg"
+  - title : "Eurogospodarka 05.2012"
+    image : "assets/images/issues/052012.jpg"    
+  - title : "Eurogospodarka 06.2012"
+    image : "assets/images/issues/062012.jpg"   
+  - title : "Eurogospodarka 07.2012"
+    image : "assets/images/issues/072012.jpg"    
+  - title : "Eurogospodarka 08.2012"
+    image : "assets/images/issues/082012.jpg"   
+  - title : "Eurogospodarka 09.2012"
+    image : "assets/images/issues/092012.jpg"   
+  - title : "Eurogospodarka 10.2012"
+    image : "assets/images/issues/102012.jpg"   
+  - title : "Eurogospodarka 11.2012"
+    image : "assets/images/issues/112012.jpg"  
+  - title : "Eurogospodarka 12.2012"
+    image : "assets/images/issues/122012.jpg"
+# 2013
+  - title : "Eurogospodarka 01.2013"
+    image : "assets/images/issues/012013.jpg"  
+  - title : "Eurogospodarka 03.2013"
+    image : "assets/images/issues/032013.jpg"    
+  - title : "Eurogospodarka 04.2013"
+    image : "assets/images/issues/042013.jpg"
+  - title : "Eurogospodarka 05.2013"
+    image : "assets/images/issues/052013.jpg"    
+  - title : "Eurogospodarka 06.2013"
+    image : "assets/images/issues/062013.jpg"   
+  - title : "Eurogospodarka 07.2013"
+    image : "assets/images/issues/072013.jpg"    
+  - title : "Eurogospodarka 08.2013"
+    image : "assets/images/issues/082013.jpg"   
+  - title : "Eurogospodarka 09.2013"
+    image : "assets/images/issues/092013.jpg"   
+  - title : "Eurogospodarka 10.2013"
+    image : "assets/images/issues/102013.jpg"   
+  - title : "Eurogospodarka 11.2013"
+    image : "assets/images/issues/112013.jpg"  
+  - title : "Eurogospodarka 12.2013"
+    image : "assets/images/issues/122013.jpg"
+# 2014
+  - title : "Eurogospodarka 01.2014"
+    image : "assets/images/issues/012014.jpg" 
+  - title : "Eurogospodarka 02.2014"
+    image : "assets/images/issues/022014.jpg"    
+  - title : "Eurogospodarka 03.2014"
+    image : "assets/images/issues/032014.jpg"    
+  - title : "Eurogospodarka 04.2014"
+    image : "assets/images/issues/042014.jpg"
+  - title : "Eurogospodarka 05.2014"
+    image : "assets/images/issues/052014.png"    
+  - title : "Eurogospodarka 06.2014"
+    image : "assets/images/issues/062014.jpg"   
+  - title : "Eurogospodarka 07.2014"
+    image : "assets/images/issues/072014.jpg"    
+  - title : "Eurogospodarka 08.2014"
+    image : "assets/images/issues/082014.jpg"   
+  - title : "Eurogospodarka 09.2014"
+    image : "assets/images/issues/092014.jpg"   
+  - title : "Eurogospodarka 10.2014"
+    image : "assets/images/issues/102014.jpg"   
+  - title : "Eurogospodarka 11.2014"
+    image : "assets/images/issues/112014.jpg"  
+  - title : "Eurogospodarka 12.2014"
+    image : "assets/images/issues/122014.jpg"
+# 2015
+  - title : "Eurogospodarka 01.2015"
+    image : "assets/images/issues/012015.jpg" 
+  - title : "Eurogospodarka 02.2015"
+    image : "assets/images/issues/022015.jpg"    
+  - title : "Eurogospodarka 03.2015"
+    image : "assets/images/issues/032015.jpg"    
+  - title : "Eurogospodarka 04.2015"
+    image : "assets/images/issues/042015.jpg"
+  - title : "Eurogospodarka 05.2015"
+    image : "assets/images/issues/052015.jpg"    
+  - title : "Eurogospodarka 06.2015"
+    image : "assets/images/issues/062015.jpg"   
+  - title : "Eurogospodarka 07.2015"
+    image : "assets/images/issues/072015.jpg"    
+  - title : "Eurogospodarka 08.2015"
+    image : "assets/images/issues/082015.jpg"   
+  - title : "Eurogospodarka 09.2015"
+    image : "assets/images/issues/092015.jpg"   
+  - title : "Eurogospodarka 10.2015"
+    image : "assets/images/issues/102015.jpg"   
+  - title : "Eurogospodarka 11.2015"
+    image : "assets/images/issues/112015.jpg"  
+  - title : "Eurogospodarka 12.2015"
+    image : "assets/images/issues/122015.jpg"
+# 2016
+  - title : "Eurogospodarka 01.2016"
+    image : "assets/images/issues/012016.jpg" 
+  - title : "Eurogospodarka 02.2016"
+    image : "assets/images/issues/022016.jpg"    
+  - title : "Eurogospodarka 03.2016"
+    image : "assets/images/issues/032016.jpg"    
+  - title : "Eurogospodarka 04.2016"
+    image : "assets/images/issues/042016.jpg"
+  - title : "Eurogospodarka 05.2016"
+    image : "assets/images/issues/052016.jpg"    
+  - title : "Eurogospodarka 06.2016"
+    image : "assets/images/issues/062016.jpg"   
+  - title : "Eurogospodarka 07.2016"
+    image : "assets/images/issues/072016.jpg"    
+  - title : "Eurogospodarka 08.2016"
+    image : "assets/images/issues/082016.jpg"   
+  - title : "Eurogospodarka 09.2016"
+    image : "assets/images/issues/092016.jpg"   
+  - title : "Eurogospodarka 10.2016"
+    image : "assets/images/issues/102016.jpg"   
+  - title : "Eurogospodarka 11.2016"
+    image : "assets/images/issues/112016.jpg"  
+
+#-------------------------------
+# Contact Section
+
+contact-title: Kontakt
+contact-email: redakcja@eurogospodarka.com

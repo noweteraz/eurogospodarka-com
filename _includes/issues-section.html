@@ -1,0 +1,23 @@
+{% if site.data.settings.issues %}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Wydania</h2>
+      </div>
+      {% for isues in site.data.settings.issues %}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ site.baseurl }}/{{ isues.image }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{ isues.title }}</h4>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endif %}
