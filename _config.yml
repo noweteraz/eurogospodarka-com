@@ -14,9 +14,6 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
-include:
-  - _pages
-
 sass:
   sass_dir: _sass
   style: compressed
