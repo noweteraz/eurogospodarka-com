@@ -10,7 +10,7 @@ plugins:
 
 defaults:
   - scope:
-      path: '_pages'
+      path: '_site'
     values:
       permalink: /:basename:output_ext
 
