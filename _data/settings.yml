@@ -3,12 +3,13 @@
 
 title: Eurogospodarka
 description: Życie przez pryzmat pieniądza
-logo: logo.png
-email: redakcja@eurogospodarka.com
+logo: eurogospodarka-logo-www-red-retina.png
+email: redakcja@eurogospodarka.eu
 phone: +48 574 662 644
 address: ul. Zielna 39, 00-108 Warszawa
 
 menu:
+- {name: Wydanie on-line, link: 'https://eurogospodarka.eu'}
 - {name: Kontakt, link: '/kontakt/'}
 
 google-analytics: 
@@ -150,4 +151,4 @@ issues:
 # Contact Section
 
 contact-title: Kontakt
-contact-email: info@eurogospodarka.com
+contact-email: redakcja@eurogospodarka.eu
