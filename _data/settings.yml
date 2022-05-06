@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Eurogospodarka
-description: Życie przez pryzmat pieniądza
+description: Pismo społeczno-gospodarcze
 logo: eurogospodarka-logo-www-red-retina.png
 email: redakcja@eurogospodarka.eu
 phone: +48 574 662 644
@@ -18,7 +18,7 @@ google-analytics:
 # Hero Section
 
 hero:
-  hero-title: Życie <br> przez pryzmat <br> pieniądza
+  hero-title: Pismo <br> społeczno-gospodarcze
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/eurogospodarka.miesiecznikdlawszystkich"}
@@ -146,6 +146,14 @@ issues:
     image : "assets/images/issues/102016.jpg"   
   - title : "Eurogospodarka 11.2016"
     image : "assets/images/issues/112016.jpg"  
+# 2019
+  - title : "Eurogospodarka 01.2019"
+    image : "assets/images/issues/eurogospodarka-01-2019.jpg"
+# 2022
+  - title : "Eurogospodarka 02.2022"
+    image : "assets/images/issues/eurogospodarka-02-2022.jpg"
+  - title : "Eurogospodarka 03-04.2022"
+    image : "assets/images/issues/eurogospodarka-03-04-2022.jpg"
 
 #-------------------------------
 # Contact Section
