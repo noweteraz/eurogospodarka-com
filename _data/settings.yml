@@ -9,7 +9,7 @@ phone: +48 574 662 644
 address: ul. Zielna 39, 00-108 Warszawa
 
 menu:
-- {name: Wydanie on-line, link: 'https://eurogospodarka.eu'}
+- {name: Wydanie on-line, link: 'https://eurogospodarka.eu/e-wydania/'}
 - {name: Kontakt, link: '/kontakt/'}
 
 google-analytics: 
@@ -154,6 +154,8 @@ issues:
     image : "assets/images/issues/eurogospodarka-02-2022.jpg"
   - title : "Eurogospodarka 03-04.2022"
     image : "assets/images/issues/eurogospodarka-03-04-2022.jpg"
+  - title : "Eurogospodarka 05.2022"
+    image : "assets/images/issues/eurogospodarka-5-2022.jpg"
 
 #-------------------------------
 # Contact Section
