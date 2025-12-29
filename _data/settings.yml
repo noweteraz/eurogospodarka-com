@@ -195,6 +195,7 @@ issues:
     image : "assets/images/issues/eurogospodarka-11-2023.jpg"
   - title : "Eurogospodarka 12.2023"
     image : "assets/images/issues/eurogospodarka-12-2023.jpg"
+# 2024
   - title : "Eurogospodarka 01.2024"
     image : "assets/images/issues/eurogospodarka-01-2024.jpg"
   - title : "Eurogospodarka 02.2024"
@@ -219,6 +220,7 @@ issues:
     image : "assets/images/issues/eurogospodarka-11-2024.jpg"
   - title : "Eurogospodarka 12.2024"
     image : "assets/images/issues/eurogospodarka-12-2024.jpg"
+# 2025
   - title : "Eurogospodarka 01.2025"
     image : "assets/images/issues/eurogospodarka-01-2025.jpg"
   - title : "Eurogospodarka 02.2025"
@@ -243,9 +245,9 @@ issues:
     image : "assets/images/issues/eurogospodarka-11-2025.jpg"
   - title : "Eurogospodarka 12.2025"
     image : "assets/images/issues/eurogospodarka-12-2025.jpg"
+# 2026
   - title : "Eurogospodarka 01.2026"
     image : "assets/images/issues/eurogospodarka-01-2026.jpg"
-
 #-------------------------------
 # Contact Section
 
