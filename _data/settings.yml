@@ -5,7 +5,7 @@ title: Eurogospodarka
 description: Pismo społeczno-gospodarcze
 logo: eurogospodarka-logo-www-red-retina.png
 email: redakcja@eurogospodarka.eu
-phone: +48 574 662 644
+phone: +48 519 599 182
 address: ul. Zielna 39, 00-108 Warszawa
 
 menu:
@@ -250,6 +250,8 @@ issues:
     image : "assets/images/issues/eurogospodarka-01-2026.jpg"
   - title : "Eurogospodarka 02.2026"
     image : "assets/images/issues/eurogospodarka-02-2026.jpg"
+  - title : "Eurogospodarka 03.2026"
+    image : "assets/images/issues/eurogospodarka-03-2026.jpg"
 #-------------------------------
 # Contact Section
 
